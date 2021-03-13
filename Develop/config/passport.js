@@ -1,6 +1,8 @@
+// Require passport (authentication middleware for node js) and passport-local (authentication with username and password) NPM dependencies 
 var passport = require("passport");
 var LocalStrategy = require("passport-local").Strategy;
 
+//Require models folder contents
 var db = require("../models");
 
 // Telling passport we want to use a Local Strategy. In other words, we want login with a username/email and password

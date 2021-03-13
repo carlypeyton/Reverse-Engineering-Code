@@ -12,6 +12,7 @@ $(document).ready(function() {
       password: passwordInput.val().trim()
     };
 
+    // If username or password null, return
     if (!userData.email || !userData.password) {
       return;
     }
