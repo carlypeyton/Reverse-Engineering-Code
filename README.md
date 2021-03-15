@@ -22,8 +22,6 @@ THEN I understand the codebase
 
 ## Walkthrough
 
-<img src ="">
-
 For an extensive walkthrough of the application, please visit:
 * https://docs.google.com/document/d/1zkGBWJG9YG0GFT2LSHcpr9z2cK76ISqRzheyHICDsQk/edit?usp=sharing
 
